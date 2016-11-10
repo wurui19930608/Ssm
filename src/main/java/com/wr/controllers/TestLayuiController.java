@@ -25,6 +25,10 @@ public class TestLayuiController {
         return "layui";
     }
 
+    /**
+     * 进入表单页
+     * @return
+     */
     @RequestMapping("/toform")
     public String toform(){
         return "/layui/form";
