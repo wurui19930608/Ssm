@@ -1,0 +1,3 @@
+UPDATE wuruitest.user_wurui SET user_name = 'luodan', password = 'BE73ED7721B995F30370A3188360F3B5', mobile = '15723185442' WHERE id = '0ac4d76515004c25a3e2eafe451ec2c1';
+UPDATE wuruitest.user_wurui SET user_name = 'wurui', password = 'C7EF9CFEC470B9CD9DF4510BBAFE7449', mobile = '15140230115' WHERE id = '1';
+UPDATE wuruitest.user_wurui SET user_name = 'zhangbo', password = 'E10ADC3949BA59ABBE56E057F20F883E', mobile = '13661333941' WHERE id = '7d6cd63faec84a60b2fbe55fc0dc6317';
